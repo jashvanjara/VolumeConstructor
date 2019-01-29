@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <RootNamespace>VolumeConstructor</RootNamespace>
+    <PackageVersion>1.0</PackageVersion>
+    <Title>VolumeConstructor</Title>
+    <Copyright>Copyright © 2018</Copyright>
+    <Description>Description of VolumeConstructor</Description>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Eto.Forms" Version="2.4.1" />
+    <PackageReference Include="fo-dicom" Version="4.0.0" />
+  </ItemGroup>
+  
+</Project>
